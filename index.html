@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Andrei Bandarchyk</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0px;
+            font-family: 'Roboto', sans-serif;
+            color: #353535;
+        }
+		.photo {
+            width: 150px;
+            border-radius: 50%;
+            margin: auto;
+			transition: 1s; 
+			}
+		.photo:hover {
+			transform: scale(1.5); 
+        } 
+        .content {
+            width: 50%;
+            margin: auto;            
+        }
+        h1 {
+            text-transform: uppercase;
+            font-size: 2.5em;
+            margin: auto;
+        }
+		h1:hover {
+			color: #19038a;
+        }
+        h2 {
+            text-transform: uppercase;
+            color: #19038a;
+		}
+		h2:hover {
+			color: #000;
+        }
+		.geolocation {
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+        header {
+            display:flex;
+            justify-content: space-between;
+            align-items:center;
+            flex-wrap: wrap;
+            padding: 30px 0px 40px 0px;            
+        }       
+        .info {
+            margin: auto;
+        }
+        
+        .mycontacts {
+            margin-bottom: 3px;
+        }
+        section {
+            margin-bottom: 30px;
+            line-height: 25px;
+        }
+        .icon {
+            margin: auto 5px auto 0px;
+        }
+        a {
+            text-decoration: none;
+            font-weight: bold;
+            color: #353535;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+		.scale {
+			transition: 1s; 
+		}
+		.scale:hover {
+			transform: scale(1.5); 
+		}
+        .smedia {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        
+    </style>
+</head>
+
+<body>
+    <div class="content">
+        <header>
+            <img class = "photo" src="467307778.jpeg" alt="myphoto">
+            <div class = "info">
+                <h1>Andrei Bandarchyk</h1>
+                <div class = "geolocation"><img class = "icon" src="marker.png" alt="marker" height="15px">Minsk, Belarus</div>
+                <div class ="mycontacts"><a href="mailto:sviterpro@gmail.com"><img class = "icon" src="mail.png" alt="mail" height="15px">sviterpro@gmail.com</a></div>
+                <div class = "mycontacts"><img class = "icon" src="phone.png" alt="phone" height="15px">+375259809138</div>
+            </div>
+        </header>
+        <main>  
+           <section>
+                <h2>Summary</h2>
+                <hr>
+                <p>I don't have any experience in Front-End development...<br/>
+                    But I really want to change jobs and become a Front-End developer.</p>
+                <p>I am ambitious and hardworking, so I believe in myself...</p>
+           </section>
+            <section>
+                <h2>Skills</h2>
+                <hr>
+                <div>
+                    <p>◾◾◾◾◽ HTML</p>
+                    <p>◾◾◾◽◽ CSS</p>  
+                    <p>◾◾◽◽◽ JavaScript </p> 
+                    <p>◾◾◾◽◽ Java </p> 
+                    <p>◾◾◾◾◾ Photoshop</p>
+                </div>  
+            </section>
+            <section>
+                <h2>Education and experience</h2>
+                <hr>
+                <div>
+                    <p><strong>Belarus Institute of law</strong></p>  
+                    <p>Faculty of international law<br/> 
+                        International Lawyer<br/>  
+                             <em>2018-2023</em></p>  
+                  </div>
+            </section>
+ 
+        </main>
+        <footer>
+            <h2>Contacts</h2>
+            <hr>
+            <div class = "smedia">
+                <div>
+                    <div class ="mycontacts"><a href="mailto:sviterpro@gmail.com"><img class = "icon" src="mail.png" alt="mail" height="15px">sviterpro@gmail.com</a></div>
+                    <div class = "mycontacts"><img class = "icon" src="phone.png" alt="phone" height="15px">+375259809138</div>
+                </div>
+                    <div><a href="https://github.com/andreiba1988"><img src="github.png" alt="Github" height="25px" class="scale"><br/></a></div>
+                    <div><a href="http://t.me/sviterpro"><img src="telegram.png" alt="Telegram" height="25px" class="scale"><br/></a></div>
+                    <div><a href="https://vk.com/sviterpro"><img src="vk.png" alt="VK" height="35px" class="scale"><br/></a></div>
+					<div><img src="whatsapp.png" alt="WhatsApp +375259809138" height="35px" class="scale" onclick="alert('WhatsApp: +375259809138 и Viber: +375259809138')"><br/></a></div>
+                </div>
+        </footer>
+    </div>
+
+</body>
+
+</html>
