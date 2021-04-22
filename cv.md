@@ -9,16 +9,18 @@
 <strong>github:</strong> <a href="https://github.com/andreiba1988" title="new on github">andreiba1988</a></p>
 
 <h2 id="summary">Summary</h2>
-<p>I don't have any experience in Front-End development. .<br />
-But I really want to change jobs and become a Front-End developer</p>
-<p>I am ambitious and hardworking, so I believe in myself...</p>
+<p> I have no Front-End and Android developer experience. ... <br />
+But I really want to change jobs and become a Front-End or Android developer </p>
+<p> I am ambitious and hardworking, so I believe in myself ... </p>
 
 <h2 id="skills">Skills</h2>
-<p>◾◾◾◾◽ HTML<br />
+<p>◾◾◾◽◽ HTML<br />
 ◾◾◾◽◽ CSS<br />
 ◾◾◽◽◽ JavaScript<br />
-◾◾◾◽◽ Java<br />
+◾◾◾◾◽ Java<br />
+◾◾◾◽◽ Kotlin<br />
 ◾◾◾◾◾ Photoshop</p>
+◾◾◾◾◾ Android Studio</p>
 
 <h2 id="education-and-experience">Education and experience</h2>
 
