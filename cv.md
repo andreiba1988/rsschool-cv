@@ -19,8 +19,8 @@ But I really want to change jobs and become a Front-End or Android developer </p
 ◾◾◽◽◽ JavaScript<br />
 ◾◾◾◾◽ Java<br />
 ◾◾◾◽◽ Kotlin<br />
-◾◾◾◾◾ Photoshop />
-◾◾◾◾◾ Android Studio />
+◾◾◾◾◾ Photoshop<br />
+◾◾◾◾◾ Android Studio<br />
 
 <h2 id="education-and-experience">Education and experience</h2>
 
