@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-
-<meta property="og:title" content="BANDARCHYK ANDREI #" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="RSSchool2020q3" />
-<meta property="og:description" content="RSSchool2020q3" />
-<link rel="canonical" href="https://andreiba1988.github.io/rsschool-cv/cv.html" />
-<meta property="og:url" content="https://andreiba1988.github.io/rsschool-cv/cv.html" />
-<meta property="og:site_name" content="rsschool-cv" />
-
-  </head>
-  <body>
-    <div class="container-lg markdown-body">
-      
 <h1 id="bandarchyk-andrei">BANDARCHYK ANDREI</h1>
 <p><strong>Minsk, Belarus</strong></p>
 
@@ -46,6 +27,3 @@ Faculty of international law<br />
 International Lawyer<br />
 <em>2018-2023</em></p>
 
-
-  </body>
-</html>
